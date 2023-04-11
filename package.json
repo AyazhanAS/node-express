@@ -1,0 +1,14 @@
+{
+  "name": "itproger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ayazhan": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "currency-converter-lt": "^2.0.0-beta.0"
+  }
+}
